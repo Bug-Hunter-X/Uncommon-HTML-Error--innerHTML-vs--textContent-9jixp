@@ -1,0 +1,1 @@
+This repository demonstrates a common but easily overlooked error in HTML when using innerHTML to manipulate text content within an element. The bug showcases how using innerHTML can introduce unexpected behavior or XSS (Cross-Site Scripting) vulnerabilities if not handled carefully. The solution illustrates the safer alternative: using textContent.
